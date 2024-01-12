@@ -2,4 +2,4 @@
 -feature-A
 -fea-A
 -F-B
-fae-C
+fea-C
